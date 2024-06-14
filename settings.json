@@ -1,0 +1,4 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "livePreview.defaultPreviewPath": "/index.html"
+}
